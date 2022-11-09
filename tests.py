@@ -1,5 +1,5 @@
 import unittest
-import task
+from task import task
 
 
 class TestCase(unittest.TestCase):
